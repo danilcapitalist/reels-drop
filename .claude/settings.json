@@ -1,11 +1,18 @@
 {
   "permissions": {
     "allow": [
+      "mcp__Metricool",
+      "mcp__8621a313-a348-450d-afe4-1d00a56f7027",
       "mcp__Metricool__getBrandSettings",
       "mcp__Metricool__getBestTimeToPostByNetwork",
       "mcp__Metricool__getScheduledPosts",
       "mcp__Metricool__createScheduledPost",
       "mcp__Metricool__updateScheduledPost",
+      "mcp__8621a313-a348-450d-afe4-1d00a56f7027__getBrandSettings",
+      "mcp__8621a313-a348-450d-afe4-1d00a56f7027__getBestTimeToPostByNetwork",
+      "mcp__8621a313-a348-450d-afe4-1d00a56f7027__getScheduledPosts",
+      "mcp__8621a313-a348-450d-afe4-1d00a56f7027__createScheduledPost",
+      "mcp__8621a313-a348-450d-afe4-1d00a56f7027__updateScheduledPost",
       "Bash(git rm:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)"
